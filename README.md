@@ -1,6 +1,7 @@
-# New Revised Version New Testament
+# The New Revised Version
 
 ## Project Goals
 * Produce a continuous Greek text representing the Greek New Testament used by the Revised Version committee to create the (English) Revised Version New Testament of 1881.
-* Produce an English New Testament which is identical to the Revised Version of 1881, but reflects how the text would read if translated from the Byzantine Textform as given in the latest Robinson-Pierpont Greek New Testament.
-* Produce a newly revised English New Testament which updates archaisms found in the Revised Version of 1881.
+* Generate a collation of this Greek text against the latest edition of the Robinson-Pierpont Byzantine Greek New Testament, showing all differences between the Greek text behind the Revised Version and the Byzantine text.
+* Create a new English translation by modifying the Revised Version of 1881 to reflect how it would read if it had been translated from the Byzantine Greek New Testament.
+* Modernize significant archaisms in this new translation.
