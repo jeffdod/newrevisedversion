@@ -6,15 +6,18 @@ The Revised Version of the English Bible (1885) and its American cousin, the Ame
 
 1. They are relevant due to their historical importance.
 2. The RV/ASV remain (debatably) the most "accurate" translations in terms of maintaining a word-for-word correspondence with the Greek text.
-3. Both translations are free of copyright, and readily available in Bible software packages.
+3. Both translations are free of copyright, and readily available in Bible study software.
 
-The vision for this project is to 
+In spite of the prevalence of the ASV translation online and in Bible study software, it has not enjoyed a complete transition into the digital world. Specifically, the Greek text which lies behind the RV and ASV has never appeared in digital form. As a result, it is not avaialable to search or analyze in comparison with other Greek texts.
+
+The vision for this project is to complete this transition into the digital world by providing an accurate rendition of the Greek text behind the RV/ASV.
+
 ## Project Goals
 - [x] Create draft Unicode and [Beta Code](http://stephanus.tlg.uci.edu/encoding/BCM.pdf) transcriptions of the main text of Edwin Palmer's *The Greek New Testament*.[^1]
 - [ ] Proofread and correct the drafts; add morphological tags and Strong's numbers.
 - [ ] Create an English New Testament that reflects how the Revised Version would read if the Revisers had translated from the Byzantine Greek text.
 - [ ] Combine this English New Testament (the *Byzantine Revised Version*) with the RV Old Testament to make a complete digital Bible.
-- [ ] Collate the Palmer Greek text against F.H.A. Scrivener's Textus Receptus, the Westcott-Hort New Testament, and the Robinson-Pierpont 2018 Byzantine Textform.
+- [ ] Collate the Palmer Greek text against F.H.A. Scrivener's Textus Receptus, Samuel P. Tregelles' Greek New Testament, the Westcott-Hort New Testament, and the Robinson-Pierpont 2018 Byzantine Textform.
 - [ ] Create a modernized English translation (the *New Revised Version*) of the *Byzantine Revised Version*.
 
 [^1]: Palmer, Edwin (1882). *The Greek New Testament: With the Readings Adopted by the Revisers of the Authorised Version*. Oxford, Clarendon Press.
