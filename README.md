@@ -1,7 +1,14 @@
-# The New Revised Version
+# The ***New Revised Version*** Project
 
+## Vision
+
+This project 
 ## Project Goals
-* Create a digital edition of the Greek text used by the committee that produced the Revised Version New Testament of 1881.
-* Show a collation of this digital edition against the Robinson-Pierpont Byzantine Greek New Testament.
-* Produce an English New Testament translation that matches the Revised Version of 1881, but demonstrates how it would have read if translated from the Byzantine text.
-* Combine this New Testament translation with the original Revised Version Old Testament to create a complete Bible.
+- [x] Create draft Unicode and [Beta Code](http://stephanus.tlg.uci.edu/encoding/BCM.pdf) transcriptions of the main text of Edwin Palmer's *The Greek New Testament*.[^1]
+- [ ] Proofread and correct the drafts; add morphological tags and Strong's numbers.
+- [ ] Create an English New Testament that reflects how the Revised Version would read if the Revisers had translated from the Byzantine Greek text.
+- [ ] Combine this English New Testament (the *Byzantine Revised Version*) with the RV Old Testament to make a complete digital Bible.
+- [ ] Collate the Palmer Greek text against F.H.A. Scrivener's Textus Receptus, the Westcott-Hort New Testament, and the Robinson-Pierpont 2018 Byzantine Textform.
+- [ ] Create a modernized English translation (the *New Revised Version*) of the *Byzantine Revised Version*.
+
+[^1]: Palmer, Edwin (1882). *The Greek New Testament: With the Readings Adopted by the Revisers of the Authorised Version*. Oxford, Clarendon Press.
