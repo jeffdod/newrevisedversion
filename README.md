@@ -2,7 +2,7 @@
 
 ## Vision
 
-The Revised Version of the English Bible (1885) and its American cousin, the American Standard Version (ASV) of 1901, have exerted significant influence over modern English Bible translation. Several modern English translations are based either directly or indirectly on the ASV, including the Revised Standard Version (RSV), the World English Bible (WEB), the New American Standard Bible (NASB), and the English Standard Version (ESV). The RV/ASV translations are still relevant today for the following reasons:
+The Revised Version of the English Bible (1885) and its American cousin, the American Standard Version (ASV) of 1901 have exerted significant influence over modern English Bible translation. Several modern English translations are based either directly or indirectly on the ASV, including the Revised Standard Version (RSV), the World English Bible (WEB), the New American Standard Bible (NASB), and the English Standard Version (ESV). The RV/ASV translations are still relevant today for the following reasons:
 
 1. They are relevant due to their historical importance.
 2. The RV/ASV remain (debatably) the most "accurate" translations in terms of maintaining a word-for-word correspondence with the Greek text.
