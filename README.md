@@ -13,7 +13,7 @@ In spite of the prevalence of the ASV translation online and in Bible study soft
 The vision for this project is to complete this transition into the digital world by providing an accurate rendition of the Greek text behind the RV/ASV.
 
 ## Project Goals
-- [x] Create draft Unicode and [Beta Code](http://stephanus.tlg.uci.edu/encoding/BCM.pdf) transcriptions of the main text of Edwin Palmer's *The Greek New Testament*[^1] This edition is the only printed continuous text that represents the Greek readings behind the RV/ASV translations (Completed October 2022).
+- [x] Create draft Unicode and [Beta Code](http://stephanus.tlg.uci.edu/encoding/BCM.pdf) transcriptions of the main text of Edwin Palmer's *The Greek New Testament*.[^1] This edition is the only printed continuous text that represents the Greek readings behind the RV/ASV translations (Completed October 2022).
 - [ ] Proofread and correct the drafts; add morphological tags and Strong's numbers (Underway; expected completion December 2023).
 - [ ] Create an English New Testament that reflects how the Revised Version would read if the Revisers had translated from the Byzantine Greek text (the *Byzantine Revised Version*) (Underway; expected completion December 2023).
 - [ ] Combine this English New Testament (the *Byzantine Revised Version*) with the RV Old Testament to make a complete digital Bible.
