@@ -8,7 +8,7 @@ The Revised Version of the English Bible (1885) and its American cousin, the Ame
 2. The RV/ASV remain (debatably) the most “accurate” translations in terms of maintaining a word-for-word correspondence with the Greek text.
 3. Both translations are free of copyright, and readily available in Bible study software.
 
-In spite of the prevalence of the ASV translation online and in Bible study software, it has not enjoyed a complete transition into the digital world. Specifically, the Greek text which lies behind the RV and ASV has never appeared in digital form. As a result, it is not avaialable to search or analyze in comparison with other Greek texts.
+In spite of the prevalence of the ASV translation online and in Bible study software, it has not benefited from a complete transition into the digital world. Specifically, the Greek text which lies behind the RV and ASV has never appeared in digital form. As a result, it is not avaialable to search or analyze in comparison with other Greek texts.
 
 The vision for this project is to complete this transition into the digital world by providing an accurate rendition of the Greek text behind the RV/ASV.
 
