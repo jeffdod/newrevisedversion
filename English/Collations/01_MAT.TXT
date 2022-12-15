@@ -827,8 +827,8 @@ BRV: 01.10.02 Now the names of the twelve apostles are these: The first, Simon, 
 BRV: 01.10.03 Philip, and Bartholomew; Thomas, and Matthew the publican; James the [son] of Alphæus, and Lebbæus, who was surnamed Thaddæus; 
  RV: 01.10.03 Philip, and Bartholomew; Thomas, and Matthew the publican; James the [son] of Alphæus, and                           Thaddæus; 
 
-BRV: 01.10.04 Simon the Canaanite,            and Judas Iscariot, who also betrayed him. 
- RV: 01.10.04 Simon the            Cananaean, and Judas Iscariot, who also betrayed him. 
+BRV: 01.10.04 Simon the Canaanite,           and Judas Iscariot, who also betrayed him. 
+ RV: 01.10.04 Simon the            Cananæan, and Judas Iscariot, who also betrayed him. 
 
 BRV: 01.10.05 These twelve Jesus sent forth, and charged them, saying, Go not into [any] way of the Gentiles, and enter not into any city of the Samaritans: 
  RV: 01.10.05 These twelve Jesus sent forth, and charged them, saying, Go not into [any] way of the Gentiles, and enter not into any city of the Samaritans: 
@@ -1616,8 +1616,8 @@ BRV: 01.16.11 How is it that ye do not perceive that I spake [it] not to you con
 BRV: 01.16.12 Then understood they how that he bade them not beware of the leaven of bread, but of the teaching of the Pharisees and Sadducees. 
  RV: 01.16.12 Then understood they how that he bade them not beware of the leaven of bread, but of the teaching of the Pharisees and Sadducees. 
 
-BRV: 01.16.13 Now when Jesus came into the parts of Caesarea Philippi, he asked his disciples, saying, Who do men say that I the Son of man am?     
- RV: 01.16.13 Now when Jesus came into the parts of Caesarea Philippi, he asked his disciples, saying, Who do men say that   the Son of man     is? 
+BRV: 01.16.13 Now when Jesus came into the parts of Cæsarea Philippi, he asked his disciples, saying, Who do men say that I the Son of man am?     
+ RV: 01.16.13 Now when Jesus came into the parts of Cæsarea Philippi, he asked his disciples, saying, Who do men say that   the Son of man     is? 
 
 BRV: 01.16.14 And they said, Some [say] John the Baptist; some, Elijah: and others, Jeremiah, or one of the prophets. 
  RV: 01.16.14 And they said, Some [say] John the Baptist; some, Elijah: and others, Jeremiah, or one of the prophets. 
@@ -2222,8 +2222,8 @@ BRV: 01.22.15 Then went the Pharisees, and took counsel how they might ensnare h
 BRV: 01.22.16 And they send to him their disciples, with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, and carest not for any one: for thou regardest not the person of men. 
  RV: 01.22.16 And they send to him their disciples, with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, and carest not for any one: for thou regardest not the person of men. 
 
-BRV: 01.22.17 Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not? 
- RV: 01.22.17 Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not? 
+BRV: 01.22.17 Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cæsar, or not? 
+ RV: 01.22.17 Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cæsar, or not? 
 
 BRV: 01.22.18 But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites? 
  RV: 01.22.18 But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites? 
@@ -2234,8 +2234,8 @@ BRV: 01.22.19 Shew me the tribute money. And they brought unto him a penny.
 BRV: 01.22.20 And he saith unto them, Whose is this image and superscription? 
  RV: 01.22.20 And he saith unto them, Whose is this image and superscription? 
 
-BRV: 01.22.21 They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things that  are Caesar's; and unto God the things that are God's. 
- RV: 01.22.21 They say unto him, Caesar's. Then saith he unto them, Render therefore unto Caesar the things that  are Caesar's; and unto God the things that are God's. 
+BRV: 01.22.21 They say unto him, Cæsar's. Then saith he unto them, Render therefore unto Cæsar the things that  are Cæsar's; and unto God the things that are God's. 
+ RV: 01.22.21 They say unto him, Cæsar's. Then saith he unto them, Render therefore unto Cæsar the things that  are Cæsar's; and unto God the things that are God's. 
 
 BRV: 01.22.22 And when they heard it, they marveled, and left him, and went their way. 
  RV: 01.22.22 And when they heard it, they marveled, and left him, and went their way. 
