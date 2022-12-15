@@ -5,3 +5,5 @@ Collations - Contains collations of each New Testament book. The collations are 
 New Testament (ByzRV) - English text of the Byzantine Revised Version.
 
 New Testament (RV) - English text of the Revised Version.
+
+Old Testament - English text of the RV Old Testament.
